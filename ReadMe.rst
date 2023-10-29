@@ -1,6 +1,6 @@
-.. |badge| image:: https://readthedocs.org/projects/super-wiki/badge/?version=latest
-   :target: https://wiki.superstes.eu/en/latest/?badge=latest
-   :alt: Documentation Status
+.. |badge| image:: https://readthedocs.org/projects/ansible-semi/badge/?version=latest
+    :target: https://ansible-semi.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
 
 ############################
