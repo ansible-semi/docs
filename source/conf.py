@@ -15,5 +15,5 @@ html_css_files = ['css/wiki.css']
 master_doc = 'index'
 display_version = True
 sticky_navigation = True
-# html_logo = '_static/img/logo.svg'
-# html_favicon = 'img/favicon.ico'
+html_logo = '_static/img/logo.png'
+html_favicon = '_static/img/logo.png'
