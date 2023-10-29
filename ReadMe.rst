@@ -7,7 +7,7 @@
 Ansible Semi - Documentation
 ############################
 
-Wiki: `ansible-semi.readthedocs.org <https://ansible-semi.readthedocs.org>`_
+Wiki: `ansible-semi.readthedocs.io <https://ansible-semi.readthedocs.io/en/latest/>`_
 
 |badge|
 
